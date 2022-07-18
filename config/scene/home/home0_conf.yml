@@ -1,0 +1,9 @@
+homes:
+  8:
+    spawn_poses:
+      - PITCH: 0.0
+        YAW: 0.0
+        ROLL: 0.0
+        X: 0.0
+        Y: 0.0
+        Z: 0.0
